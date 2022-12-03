@@ -12,7 +12,7 @@ An API for a social network web application where users can create an account, a
 
 ## Demonstration video
 CRUD for User
-https://www.youtube.com/watch?v=D7D9SOugTi4
+https://www.youtube.com/watch?v=8UoSK1_RSCE
 
 POST/DELETE Friend
 https://www.youtube.com/watch?v=_zWgcMiFBeU
